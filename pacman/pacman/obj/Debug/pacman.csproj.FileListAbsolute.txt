@@ -1,0 +1,48 @@
+Z:\pacman\pacman\bin\Debug\pacman.exe.config
+Z:\pacman\pacman\bin\Debug\pacman.exe
+Z:\pacman\pacman\bin\Debug\pacman.pdb
+Z:\pacman\pacman\obj\Debug\pacman.csprojResolveAssemblyReference.cache
+Z:\pacman\pacman\obj\Debug\pacman.Form1.resources
+Z:\pacman\pacman\obj\Debug\pacman.Properties.Resources.resources
+Z:\pacman\pacman\obj\Debug\pacman.csproj.GenerateResource.Cache
+Z:\pacman\pacman\obj\Debug\pacman.exe
+Z:\pacman\pacman\obj\Debug\pacman.pdb
+C:\Users\Gonçalo Silva\Desktop\Gonçalo Silva\11ºano\L.P\pacman\pacman\bin\Debug\pacman.exe.config
+C:\Users\Gonçalo Silva\Desktop\Gonçalo Silva\11ºano\L.P\pacman\pacman\bin\Debug\pacman.exe
+C:\Users\Gonçalo Silva\Desktop\Gonçalo Silva\11ºano\L.P\pacman\pacman\bin\Debug\pacman.pdb
+C:\Users\Gonçalo Silva\Desktop\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.Form1.resources
+C:\Users\Gonçalo Silva\Desktop\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.Properties.Resources.resources
+C:\Users\Gonçalo Silva\Desktop\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.csproj.GenerateResource.Cache
+C:\Users\Gonçalo Silva\Desktop\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalo Silva\Desktop\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.exe
+C:\Users\Gonçalo Silva\Desktop\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.pdb
+D:\pacman\pacman\obj\Debug\pacman.csprojResolveAssemblyReference.cache
+D:\pacman\pacman\obj\Debug\pacman.Form1.resources
+D:\pacman\pacman\obj\Debug\pacman.Properties.Resources.resources
+D:\pacman\pacman\obj\Debug\pacman.csproj.GenerateResource.Cache
+D:\pacman\pacman\obj\Debug\pacman.exe
+D:\pacman\pacman\obj\Debug\pacman.pdb
+D:\pacman\pacman\bin\Debug\pacman.exe.config
+D:\pacman\pacman\bin\Debug\pacman.exe
+D:\pacman\pacman\bin\Debug\pacman.pdb
+D:\pacman\pacman\obj\Debug\pacman.csproj.CoreCompileInputs.cache
+E:\pacman\pacman\bin\Debug\pacman.exe.config
+E:\pacman\pacman\bin\Debug\pacman.exe
+E:\pacman\pacman\bin\Debug\pacman.pdb
+E:\pacman\pacman\obj\Debug\pacman.csprojResolveAssemblyReference.cache
+E:\pacman\pacman\obj\Debug\pacman.Form1.resources
+E:\pacman\pacman\obj\Debug\pacman.Properties.Resources.resources
+E:\pacman\pacman\obj\Debug\pacman.csproj.GenerateResource.Cache
+E:\pacman\pacman\obj\Debug\pacman.exe
+E:\pacman\pacman\obj\Debug\pacman.pdb
+C:\Users\Gonçalo Silva\Desktop\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.csprojAssemblyReference.cache
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Gonçalo Silva\11ºano\L.P\pacman\pacman\bin\Debug\pacman.exe.config
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Gonçalo Silva\11ºano\L.P\pacman\pacman\bin\Debug\pacman.exe
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Gonçalo Silva\11ºano\L.P\pacman\pacman\bin\Debug\pacman.pdb
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.csprojAssemblyReference.cache
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.Form1.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.Properties.Resources.resources
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.csproj.GenerateResource.cache
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.csproj.CoreCompileInputs.cache
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.exe
+C:\Users\gonca\OneDrive\Ambiente de Trabalho\Gonçalo Silva\11ºano\L.P\pacman\pacman\obj\Debug\pacman.pdb
